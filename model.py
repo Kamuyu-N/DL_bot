@@ -4,7 +4,6 @@ import numpy as np
 import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras.callbacks import EarlyStopping
-
 from assistance_functions import DeepLearning
 
 # Set a maximum memory limit
